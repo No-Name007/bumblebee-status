@@ -14,6 +14,7 @@
 	"pacman": { "prefix": "" },
 	"brightness": { "prefix": "" },
 	"load": { "prefix": "" },
+	"poweroffbtn" : { "prefix": " "},
 	"layout": { "prefix": "" },
 	"layout-xkb": { "prefix": "" },
 	"notmuch_count": { "empty": {"prefix": "\uf0e0" },
@@ -77,6 +78,26 @@
         "?": { "prefix": "" }
     },
 	"battery": {
+		"charged": { "prefix": "", "suffix": "" },
+		"AC": { "suffix": "" },
+		"charging": {
+			"prefix": [ "", "", "", "", "" ],
+			"suffix": ""
+		},
+		"discharging-10": { "prefix": "", "suffix": "" },
+		"discharging-25": { "prefix": "", "suffix": "" },
+		"discharging-50": { "prefix": "", "suffix": "" },
+		"discharging-80": { "prefix": "", "suffix": "" },
+		"discharging-100": { "prefix": "", "suffix": "" },
+		"unlimited": { "prefix": "", "suffix": "" },
+		"estimate": {	"prefix": ""  },
+		"unknown-10": { "prefix": "", "suffix": "" },
+		"unknown-25": { "prefix": "", "suffix": "" },
+		"unknown-50": { "prefix": "", "suffix": "" },
+		"unknown-80": { "prefix": "", "suffix": "" },
+		"unknown-100": { "prefix": "", "suffix": "" }
+	},
+	"batterynew": {
 		"charged": { "prefix": "", "suffix": "" },
 		"AC": { "suffix": "" },
 		"charging": {
