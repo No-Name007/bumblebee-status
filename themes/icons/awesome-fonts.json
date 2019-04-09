@@ -72,6 +72,14 @@
 		"tunnel-up": { "prefix": "" },
 		"tunnel-down": { "prefix": "" }
 	},
+	"nic-new": {
+		"wireless-up": { "prefix": "" },
+		"wireless-down": { "prefix": "" },
+		"wired-up": { "prefix": "" },
+		"wired-down": { "prefix": "" },
+		"tunnel-up": { "prefix": "" },
+		"tunnel-down": { "prefix": "" }
+	},
     "bluetooth": {
         "ON": { "prefix": "" },
         "OFF": { "prefix": "" },
