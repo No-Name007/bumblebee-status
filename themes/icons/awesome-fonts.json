@@ -186,7 +186,10 @@
 		"repeat-off": { "prefix": "" }
 	},
 	"arch-update": {
-		"prefix": " "
+		"updates": " "
+	},
+	"version_update": {
+		"prefix": "\uf17c "
 	},
 	"github": {
 		"prefix": "  "

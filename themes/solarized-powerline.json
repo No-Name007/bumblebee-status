@@ -53,6 +53,16 @@
 			"bg": "#dc322f"
 		}
 	},
+	"version_update": {
+		"updates": {
+			"fg": "#002b36",
+			"bg": "#b58900"
+		},
+		"no-updates": {
+			"fg": "#002b36",
+			"bg": "#859900"
+		}
+	},
   	"git": {
 		"modified": { "bg": "#2aa198" },
 		"deleted": { "bg": "#d33682" },
